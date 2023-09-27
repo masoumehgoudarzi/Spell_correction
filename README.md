@@ -1,7 +1,1 @@
-# data-mining
-In this data mining project, I develop a classification system to detect whether the patient has diabetes or not. As part of this project, I used and compared performance of the below machine learning algorithms to predict diabetes for patients: 
-
-✔	Neural Networks   
-✔	Decision Trees   
-✔	Support Vector machine  
-✔	K-Nearest neighbors   
+The spell correction algorithm plays a vital role in enhancing the quality and accuracy of text data by automatically correcting misspelled words. In this report, we present the methodology used for data cleaning, the approach taken for spell correction, experimental results, an accuracy analysis, and a comprehensive discussion of limitations and potential improvements of the algorithm.
